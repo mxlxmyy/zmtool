@@ -1,0 +1,19 @@
+{
+    "name": "mxlxmyy/zmtool",
+    "description": "common tool",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mxlxmyy",
+            "email": "oct212@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "zmtool\\": "src/zmtool"
+        }
+    }
+}
